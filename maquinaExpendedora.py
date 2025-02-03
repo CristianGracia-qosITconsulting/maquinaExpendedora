@@ -101,7 +101,7 @@ while True:
         informe_ventas()
         print("Saliendo...")
         break
-
+# crear rama y leer fichero
 
 
 
